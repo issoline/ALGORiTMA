@@ -1,2 +1,2 @@
-# ALGOR-TMA
+# ALGORiTMA
 Temel ve ileri seviyede Algoritma
